@@ -1,0 +1,570 @@
+<quizdata>
+<question><title>ROTOR LIMITATIONS</title>
+<line>It is not abnormal to observe a % RPM 1 and 2 speed split during autorotational descent when the engines are fully decoupled from the main rotor.</line>
+<line>A speed increase of <q>100</q>% reference to <q>103</q>% maximum can be expected.</line>
+<line>During power recovery it is normal for the engine operating above <q>100</q>% RPM to <q>lead</q> the other engine.</line>
+</question>
+
+<question><title>ROTOR START AND STOP LIMITS</title>
+<line>Maximum wind velocity for rotor start or stop is <q>45</q> knots from any direction</line>
+</question>
+
+<question><title>MAIN TRANSMISSION MODULE LIMITATIONS (A)</title>
+<line>Oil pressure should remain steady during <q>steady state forward flight</q> or in <q>level hover</q>.</line>
+<line>Momentary fluctuations in oil pressure may occur during transient maneuvers (i.e. hovering in gusty wind conditions) or when flying with pitch attitudes above <q>+6</q> degrees.</line>
+<line>These types of oil pressure fluctuations are <q>acceptable</q> even when oil pressure drops into the yelow range (below <q>30</q> psi).</line>
+<line>Oil pressure should remain steady and should be in the <q>45</q> to <q>55</q> psi range to ensure that when fluctuations occur they remain in the acceptable range as defined above.</line>
+<line>If oil pressure is not steady during steady state forward flight or in a level hover or if oil pressure is steady but under <q>45</q> PSI make an entry on DA 2408-13-1. Sudden pressure drops (more than <q>10</q> psi) without fluctuations require an entry on DA 2408-13-1.</line>
+</question>
+
+<question><title>MAIN TRANSMISSION MODULE LIMITATIONS (B)</title>
+<line>A demand for maximum power from engines with different engine torque factors will cause a <q>torque split</q> when the low ETF engine reaches <q>tgt limiting</q>.</line>
+<line>Under these circumstances the high power engine <q>may exceed the dual engine limit</q></line>
+</question>
+
+<question><title>MAIN ROTOR OVERSPEED</title>
+<line>First light: <q>127</q>%</line>
+<line>Second light: <q>137</q>%</line>
+<line>Third light: <q>142</q>%</line>
+</question>
+
+<question><title>ENGINE % RPM 1-2 Np</title>
+<line><q>105</q>% to <q>107</q>% <q>12</q> second transient</line>
+<line><q>101</q>% to <q>105</q>% upper transient</line>
+<line><q>95</q>% to <q>101</q>% continuous</line>
+<line><q>91</q>% to <q>95</q>% lower transient</line>
+<line>Avoid operations in <q>20</q>% to <q>40</q>% and <q>60</q>% to <q>90</q>% range except during start and shutdown</line>
+</question>
+
+<question><title>MAIN ROTOR % RPM R POWER ON</title>
+<line><q>101</q>% to <q>107</q>% upper transient</line>
+<line><q>95</q>% to <q>101</q>% continuous</line>
+<line><q>91</q>% to <q>95</q>% lower transient</line>
+</question>
+
+<question><title>MAIN ROTOR % RPM R POWER OFF (AUTOROTATION)</title>
+<line><q>110</q>% maximum</line>
+<line><q>105</q>% to <q>110</q>% transient</line>
+<line><q>90</q>% to <q>105</q>% normal</line>
+</question>
+
+<question><title>FUEL QUANTITY</title>
+<line><q>200</q> to <q>1500</q> lbs normal</line>
+<line>< <q>200</q> lbs precautionary</line>
+</question>
+
+<question><title>STABILATOR AIRSPEEDS</title>
+<line>Degrees   KIAS limit</line>
+<line>0         <q>150</q></line>
+<line>10        <q>100</q></line>
+<line>20        <q>80</q></line>
+<line>30        <q>60</q></line>
+<line>40        <q>45</q></line>
+</question>
+
+<question><title>ENGINE Ng</title>
+<line><q>102</q>% to <q>105</q>% <q>12</q> second transient</line>
+<line><q>99</q>% to <q>102</q>% <q>30</q> minute limit</line>
+<line><q>0</q>% to <q>99</q>% continuous</line>
+</question>
+
+<question><title>ENGINE OIL TEMPERATURE</title>
+<line><q>135</q> to <q>150</q> C <q>30</q> minute limit</line>
+<line><q>-50</q> to <q>135</q> C continuous</line>
+</question>
+
+<question><title>ENGINE OIL PRESSURE</title>
+<line><q>20</q> to <q>100</q> PSI continuous</line>
+<line><q>35</q> PSI minimum at <q>90</q>% Ng and above</line>
+</question>
+
+<question><title>ENGINE % TRQ SINGLE ENGINE</title>
+<line><q>110</q>% to <q>135</q>% <q>12</q> second transient</line>
+<line><q>0</q>% to <q>110</q>% continuous</line>
+</question>
+
+<question><title>ENGINE % TRQ DUAL ENGINE</title>
+<line><q>100</q>% to <q>125</q>% <q>12</q> second transient</line>
+<line><q>0</q>% to <q>100</q>% continuous</line>
+</question>
+
+<question><title>TURBINE GAS TEMPERATURE</title>
+<line><q>850</q> to <q>886</q> C <q>12</q> second transient</line>
+<line><q>850</q> C start abort limit</line>
+<line><q>775</q> to <q>850</q> C <q>30</q> minute limit</line>
+<line><q>0</q> to <q>775</q> C normal</line>
+</question>
+
+<question><title>MAIN TRANSMISSION OIL TEMPERATURE</title>
+<line><q>105</q> to <q>120</q> C precautionary</line>
+<line><q>-50</q> to <q>105</q> C continuous</line>
+</question>
+
+<question><title>MAIN TRANSMISSION OIL PRESSURE</title>
+<line><q>65</q> to <q>130</q> PSI precautionary</line>
+<line><q>30</q> to <q>65</q> PSI continuous</line>
+<line><q>20</q> to <q>30</q> PSI idle and transient</line>
+</question>
+
+<question><title>ENGINE % RPM LIMITATIONS</title>
+<line>Transient % RPM 1 or 2 operation in yellow range (<q>101</q> to <q>105</q> %) is not recommended as good operating practice</line>
+<line>However <q>no</q> damage to <q>either</q> engine or drive train is incurred by operation within this range</line>
+</question>
+
+<question><title>ENGINE STARTER LIMITS</title>
+<line>At ambient temperatures of <q>15</q> C and below <q>2</q> consecutive start cycles may be made followed by a <q>3</q> minute rest period followed by <q>2</q> additional start cycles.</line>
+<line>A <q>30</q> minute rest period is then required</line>
+<line>At ambient temperatures above <q>15</q> C up to <q>52</q> C <q>2</q> consecutive start cycles may be made followed by a <q>30</q> minute rest period.</line>
+</question>
+
+<question><title>FUEL LIMITATIONS</title>
+<line>Due to fuel volatility when converting from JP-4 to JP-5/JP-8 <q>three</q> helicopter refueling operations must be completed before performing operations <q>with fuel boost pumps off</q>.</line>
+</question>
+
+<question><title>WEIGHT LIMITATIONS</title>
+<line>UH-60A and EH-60A maximum gross weight can be extended from <q>20250</q> pounds to <q>22000</q> pounds only when wedge mounted pitot-static probes and either/or MWO 55-1520-237-50-58 or MWO 1-1520-237-50-73 are installed</line>
+</question>
+
+<question><title>PNEUMATIC SOURCE INLET LIMITS</title>
+<line>The minimum air source required to start the helicopter is <q>40</q> psig and <q>30</q> ppm at <q>149</q> C</line>
+<line>The maximum is <q>50</q> psig at <q>249</q> C</line>
+</question>
+
+<question><title>ENGINE OVERSPEED CHECK LIMITATIONS</title>
+<line>Engine overspeed check in flight is <q>prohibited</q>. </line>
+<line>Engine overspeed checks on the ground are authorized by <q>designated maintenance personnel</q> only</line>
+</question>
+
+<question><title>ENGINE START LIMITS</title>
+<line>Engine start attempts at or above a pressure altitude of <q>20000</q> feet could result in a Hot Start.</line>
+<line>Crossbleed starts shall not be attempted unless the <q>eng anti</q>-<q>ice on</q> light is off and the operating engine must be at <q>90</q> % Ng speed or above and rotor speed at <q>100</q> % RPMR.</line>
+</question>
+
+<question><title>LOADING LIMITS</title>
+<line>Maximum capacity for each storage compartment is <q>125</q> lbs</line>
+<line>Maximum cargo hook capacity <q>8000</q> lbs</line>
+<line>Max weight is further limited by cargo floor max capacity of <q>300</q> lbs per square foot</line>
+<line>Max weight UH60 with seven lug wheels: <q>20500</q> lbs</line>
+</question>
+
+<question><title>AIRSPEED LIMITS</title>
+<line>Max airspeed for one engine inoperative: <q>130</q> KIAS</line>
+<line>Max autorotational airspeed gross weight 16825 lbs or less: <q>150</q> KIAS</line>
+<line>Max autorotational airspeed gross weight more than 16825 lbs: <q>130</q> KIAS</line>
+<line>Sideward / rearward flight into the wind when combined with windspeed shall not exceed <q>45</q> KTS</line>
+</question>
+
+<question><title>SAS INOP LIMITS</title>
+<line>One SAS: <q>170</q> KIAS</line>
+<line>Two SAS: <q>150</q> KIAS</line>
+<line>Two SAS and IMC: <q>140</q> KIAS</line>
+</question>
+
+<question><title>HYDRAULIC SYSTEM INOP LIMITS</title>
+<line>One hydraulic system: <q>170</q> KIAS</line>
+<line>Two hydraulic systems: <q>150</q> KIAS</line>
+<line>Two hydraulic systems and IMC: <q>140</q> KIAS</line>
+</question>
+
+<question><title>LIGHT EXTENSION AIRSPEED LIMITS</title>
+<line>Extend landing light prior to reaching <q>130</q> KIAS</line>
+<line>Max airspeed with landing light extended: <q>180</q> KIAS</line>
+<line>Extend searchlight prior to reaching <q>100</q> KIAS</line>
+<line>Max airspeed with searchlight extended: <q>180</q> KIAS</line>
+</question>
+
+<question><title>FLIGHT WITH CABIN DOORS / WINDOWS OPEN</title>
+<line>Cabin doors may be fully open up to <q>100</q> KIAS with soundproofing installed aft of station 379</line>
+<line>Cabin doors may be fully open up to <q>145</q> KIAS with soundproofing removed aft of station 379</line>
+<line>Gunner's windows may be fully open up to <q>170</q> KIAS</line>
+<line>Cockpit doors sliding window will not be <q>opened</q> or <q>closed</q> during flight except during <q>hover</q></line>
+<line>Flight with cockpit doors removed is <q>prohibited</q></line>
+</question>
+
+<question><title>AIRSPEED LIMITS FOLLOWING FAILURE OF AUTO STABILATOR CONTROL SYSTEM</title>
+<line>If manual control is available stabilator shall be <q>full down</q> at speeds below <q>40</q> KIAS</line>
+<line>If manual control is available stabilator shall be set at <q>0</q> degrees for speeds above <q>40</q> KIAS</line>
+<line>Autorotation airspeed shall be limited to <q>120</q> KIAS at all gross weights</line>
+<line>If manual control not available placarded airspeed limits shall be observed except in no case shall the autorotation airspeed exceed <q>120</q> KIAS</line>
+</question>
+
+<question><title>PROHIBITED MANEUVERS</title>
+<line>Hovering turns greater than <q>30</q> degrees per second are prohibited</line>
+<line>Intentional maneuvers beyond attitudes of <q>30</q> degrees pitch or <q>60</q> degrees roll are prohibited</line>
+<line>Simultaneous moving of <q>both eng power cont levers</q> to <q>idle</q> or <q>off</q> in flight is prohibited</line>
+<line><q>rearward ground taxi</q> is prohibited</line>
+</question>
+
+<question><title>RESTRICTED MANEUVERS</title>
+<line>Manual operation of the stabilator in flight is <q>prohibited</q> except as required by <q>formal training</q> and <q>maintenance test flight</q> requirements or as alternate stabilator control <q>in case the auto mode malfunctions</q></line>
+<line>Prolonged rearward flight and downwind hovering are to be avoided to prevent accumulation of <q>exhaust fumes</q> in the helicopter and <q>heat damage</q> to windows on <q>open cargo doors</q></line>
+</question>
+
+<question><title>MANEUVERING LIMITATIONS</title>
+<line>Note: Maneuvers entered from a low power setting may result in <q>transient droop</q> of <q>5</q> % RPMR or greater</line>
+<line>Above <q>80</q> KIAS avoid <q>abrupt full pedal inputs</q> to prevent excess tail rotor system loading</line>
+<line>Maneuvering limits with a sling load is a maximum bank angle of <q>30</q> degrees in forward flight</line>
+</question>
+
+<question><title>SLING LOADS</title>
+<line>Sling load side flight is limited by <q>bank angle</q> and is decreased as <q>airspeed increases</q></line>
+<line>Rearward flight with a sling load is limited to <q>35</q> KTS</line>
+<line>Bank angle shall be limited to <q>30</q> degrees when either <q>pri servo press</q> caution light appears</line>
+</question>
+
+<question><title>LANDING GEAR LIMITATIONS</title>
+<line>With gross weight up to <q>16825</q> lbs do not exceed sink rate of <q>540</q> feet per minute on level terrain and <q>360</q> feet per minute on sloped</line>
+<line>Above <q>16825</q> lbs do not exceed sink rate of <q>300</q> feet per minute on level terrain and <q>180</q> feet per minute on slopes</line>
+</question>
+
+<question><title>LANDING SPEED LIMITATIONS</title>
+<line>Maximum forward touchdown speed is limited to <q>60</q> knots ground speed on level terrain</line>
+</question>
+
+<question><title>SLOPE LANDING LIMITATIONS</title>
+<line><q>15</q> degrees nose up right or left wheel up reduced by <q>2</q> for each <q>5</q> KTS of wind</line>
+<line><q>6</q> degrees nose down. Landing in nose down conditions with tail winds greater than <q>15</q> KTS shall not be conducted</line>
+<line>Because of the flat profile of the main transmission and forward location of both transmission oil pumps transmission oil pressure will drop during nose-up slope operations. At slope angle of 10 an indicated oil pressure of <q>30</q>-<q>35</q> is normal; at a 15 slope angle a pressure in the range of <q>10</q>-<q>15</q> is normal due to pitching of the helicopter</line>
+<line>The main gearbox may be operated up to <q>30</q> minutes at a time with pressure fluctuations when the helicopter is known to be at a <q>nose up attitude</q></line>
+</question>
+
+<question><title>ENVIRONMENTAL RESTRICTIONS</title>
+<line>Helicopters with the following equipment installed operational and turned on are permitted to fly into <q>trace</q> or <q>light</q> icing conditions</line>
+<line>1. <q>windshield anti</q>-<q>ice</q></line>
+<line>2. <q>pitot heat</q></line>
+<line>3. <q>engine anti</q>-<q>ice</q></line>
+<line>4. <q>engine inlet anti</q>-<q>ice modulating valve</q></line>
+<line>5. <q>insulated ambient air sensing tube</q></line>
+<line>For flight into moderate icing <q>all of the above and blade deice kit</q> must be installed operational and turned on</line>
+<line>Flight into heavy or severe icing is <q>prohibited</q></line>
+</question>
+
+<question><title>BACKUP HYDRAULIC PUMP HOT WEATHER LIMITS</title>
+<line>With the rotor system <q>static</q>:</line>
+<line>.  FAT C             Operating Time (minutes)    Cooldown Time (minutes)</line>
+<line>L: <q>-54</q> - <q>32</q>     <q>unlimited</q>                       <q>none</q></line>
+<line>M: <q>33</q> - <q>38</q>     <q>24</q>                       <q>72</q></line>
+<line>H: <q>39</q> - <q>52</q>     <q>16</q>                       <q>48</q></line>
+</question>
+
+<question><title>APU OPERATING LIMITS</title>
+<line>To prevent APU overheating at ambient temperatures of <q>43</q> C and above with the engine and rotor operating is limited to <q>30</q> minutes</line>
+<line>With the engine and rotor not operating the APU can be operated <q>continuously</q> up to a temperature of <q>51</q> C.</line>
+</question>
+
+<question><title>WINDSHIELD ANTI-ICE LIMITATIONS</title>
+<line>Windshield anti-ice check shall not be done when FAT is over <q>27</q> C</line>
+</question>
+
+<question><title>TURBULENCE AND THUNDERSTORM OPERATION</title>
+<line>Intentional flight into thunderstorms is <q>prohibited</q></line>
+<line>Intentional flight into <q>severe</q> turbulence is prohibited</line>
+<line>Intentional flight into turbulence with a sling load attached and an inoperative <q>collective pitch control friction</q> is prohibited</line>
+</question>
+
+<question><title>GUST LOCK LIMITATIONS</title>
+<line><q>dual</q>-<q>engine</q> operations with the gust lock <q>engaged</q> are <q>prohibited</q></line>
+<line>Single-engine operations with gust lock engaged will be performed by <q>authorized pilots</q> at <q>idle</q> only</line>
+<line>Gust lock shall not be <q>disengaged</q> with <q>engine running</q></line>
+</question>
+
+<question><title>IMMEDIATE ACTION EMERGENCY STEPS</title>
+<line>The urgency of certain emergencies requires immediate and instinctive action by the Pilot. The most important single consideration is <q>helicopter control</q>.</line>
+<line>All procedures are subordinate to this requirement. The <q>master caution</q> should be reset <q>after each malfunction</q> to allow systems to respond to subsequent malfunctions.</line>
+<line>If time permits during a critical emergency transmit MAYDAY call; set transponder to emergency; jettison external stores if required; turn off boost pumps; and lock shoulder harnesses.</line>
+</question>
+
+<question><title>DEFINITION OF EMERGENCY TERMS</title>
+<line>The term LAND AS SOON AS POSSIBLE is defined as <q>landing at the nearest suitable landing area without delay</q> </line>
+<line>The primary consideration is <q>to ensure the survival of occupants</q> </line>
+<line>The term LAND AS SOON AS PRACTICABLE is defined as <q>landing at a suitable landing area</q> </line>
+<line>The primary consideration is <q>the urgency of the emergency</q> </line>
+<line>The term AUTOROTATE is defined as <q>adjusting the flight controls as necessary to establish an autorotational descent and landing</q> </line>
+</question>
+
+<question><title>EMER ENG SHUTDOWN</title>
+<line>The term EMER ENG SHUTDOWN is defined as <q>engine shutdown without delay</q> </line>
+<line>1. <q>eng power cont lever</q> - <q>off</q> </line>
+<line>2. <q>eng fuel sys selector</q> - <q>off</q> </line>
+<line>3. <q>fuel boost pump control switch</q> - <q>off</q> </line>
+<line>If TGT is above <q>538</q> C after shutdown:</line>
+<line>4. <q>air source heat</q>/<q>start switch</q> - <q>as required</q> </line>
+<line>5. <q>engine ignition switch</q> - <q>off</q> </line>
+<line>6. <q>starter button</q> - <q>press</q> to motor engine for 30 seconds or until TGT TEMP decreases below 538 C</line>
+</question>
+
+<question><title>LOCKOUT</title>
+<line>The term LOCKOUT is defined as <q>manual control of engine rpm while bypassing ecu functions</q> </line>
+<line><q>eng power cont lever</q> - <q>pull down and advance full forward while maintaining downward pressure then adjust to set rpm r as required</q> </line>
+<line>When engine is controlled with ENG POWER CONT lever in LOCKOUT engine response is much faster and TGT limiting system is <q>inoperative</q>.</line>
+<line>Care must be taken not to exceed <q>tgt limits</q> and keeping <q>rpm r</q> and <q>rpm 1 and 2</q> in operating range.</line>
+</question>
+
+<question><title>EMER APU START</title>
+<line>The term EMER APU START is defined as <q>apu start to accomplish an emergency procedure</q> </line>
+<line>1. <q>fuel pump switch</q> - <q>apu boost</q> </line>
+<line>2. <q>apu contr switch</q> - <q>on</q> </line>
+</question>
+
+<question><title>SINGLE ENGINE FAILURE</title>
+<line>1. <q>collective</q> - <q>adjust to maintain rpm r</q> </line>
+<line>2. <q>external cargo</q>/<q>stores</q> - <q>jettison</q> (<q>if required</q>)</line>
+<line>If continued flight is not possible:</line>
+<line>3. LAND AS SOON AS <q>possible</q> </line>
+<line>If continued flight is possible:</line>
+<line>4. <q>establish single engine airspeed</q> </line>
+<line>5. LAND AS SOON AS <q>practicable</q> </line>
+</question>
+
+<question><title>DUAL ENGINE FAILURE</title>
+<line><q>autorotate</q> </line>
+<line>Do not respond to ENG OUT warnings and audio until checking <q>tgt temp</q> and <q>rpm r</q></line>
+</question>
+
+<question><title>DECREASING % RPM R</title>
+<line>1. <q>collective</q> - <q>adjust</q> to control % RPM R</line>
+<line>2. <q>eng power cont lever</q> - <q>lockout</q> low engine. maintain % TRQ approximately 10% below other engine.</line>
+<line>3. LAND AS SOON AS <q>practicable</q> </line>
+</question>
+
+<question><title>INCREASING % RPM R</title>
+<line>1. <q>eng power cont lever</q> - <q>retard</q> high engine; maintain % TRQ appriximately 10% below other engine</line>
+<line>2. LAND AS SOON AS <q>practicable</q> </line>
+<line>If the affected engine does not respond to ENG POWER CONT lever movement in the range between FLY and IDLE the HMU may be malfunctioning internally. If this occurs:</line>
+<line>3. Establish single engine airspeed.</line>
+<line>4. Perform <q>emer eng shutdown</q> (<q>affected engine</q>)</line>
+<line>5. Refer to single-engine failure emergency procedure</line>
+</question>
+
+<question><title>ENGINE COMPRESSOR STALL</title>
+<line>An engine compressor stall is normally recognized by a <q>noticeable bang</q> or <q>popping noise</q> and possible aircraft yaw.</line>
+<line>These responses are normally accompanied by the rapid increase in <q>tgt temp</q> and fluctuations in <q>ng speed</q>; <q>% trq</q>; and <q>% rpm</q> for the affected engine.</line>
+<line>In the event of a compressor stall:</line>
+<line>1. <q>collective</q> - <q>reduce</q> </line>
+<line>If condition persists:</line>
+<line>2. <q>eng power cont lever</q> (<q>affected engine</q>) - <q>retard</q>. (TGT TEMP should decrease)</line>
+<line>3. ENG POWER CONT lever (affected engine) - FLY</line>
+<line>If stall condition recurs:</line>
+<line>4. <q>establish single engine airspeed</q> </line>
+<line>5. <q>emer eng shutdown</q> (affected engine)</line>
+<line>6. Refer to single engine failure emergency procedure</line>
+</question>
+
+<question><title>ENGINE OIL FILTER BYPASS CAUTION APPEARS; ENGINE CHIP CAUTION APPEARS; ENG OIL PRESS HIGH/LOW; ENGINE OIL TEMP HIGH; ENGINE OIL TEMP CAUTION APPEARS; ENGINE OIL PRESS CAUTION APPEARS</title>
+<line>1. ENG POWER CONT lever - retard to reduce torque on affected engine</line>
+<line>If oil pressure is below minimum limits or if oil temperature remains above maximum limits:</line>
+<line>2. <q>establish single engine airspeed</q> </line>
+<line>3. <q>emer eng shutdown</q> (affected engine)</line>
+<line>4. Refer to single-engine failure emergency procedure</line>
+</question>
+
+<question><title>ENGINE HIGH-SPEED SHAFT FAILURE</title>
+<line>Failure of the shaft may be complete or partial. A partial failure may be characterized at first by nothing more than a <q>loud high</q>-<q>speed rattle and vibration</q> coming from the engine area.</line>
+<line>A complete failure will be accompanied by a <q>loud bang</q> that will result in a sudden % TRQ decrease to zero on the affected engine.</line>
+<line>% RPM of affected engine will <q>increase</q> until overspeed system is activated.</line>
+<line>1. <q>collective</q> - <q>adjust</q> </line>
+<line>2. <q>establish single engine airspeed</q> </line>
+<line>3. <q>emer eng shutdown</q> (affected engine). Do not attempt to restart.</line>
+<line>4. Refer to single-engine failure emergency procedure</line>
+</question>
+
+<question><title>LIGHTNING STRIKE</title>
+<line>Lightning strike may cause one or both engines to immediately produce maximum power with no <q>tgt limiting</q> or <q>overspeed protection</q>.</line>
+<line>1. <q>eng power cont levers</q> - <q>adjust</q> as required to control % RPM</line>
+<line>2. LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>LOSS OF TAIL ROTOR THRUST</title>
+<line>1. <q>autorotate</q> </line>
+<line>2. <q>eng power cont levers</q> - <q>off</q> (<q>when intended point of landing is assured</q>).</line>
+</question>
+
+<question><title>LOSS OF TAIL ROTOR THRUST AT LOW AIRSPEED/HOVER</title>
+<line>1. <q>collective</q> - <q>reduce</q> </line>
+<line>2. <q>eng power cont levers</q> - <q>off</q> (<q>5 to 10 feet above touchdown</q>)</line>
+</question>
+
+<question><title>TAIL ROTOR QUADRANT CAUTION APPEARS WITH LOSS OF TAIL ROTOR CONTROL</title>
+<line>a. If both tail rotor control cables fail a centering spring will position the tail rotor servo linkage to provide <q>10.5</q> degrees of pitch.</line>
+<line>This will allow trimmed flight at about <q>25</q> and <q>145</q> KIAS (these speeds will vary with gross weight).</line>
+<line>b. A shallow approach to a roll-on landing technique is recommmended. During the approach a yaw to the left will occur. As the touchdown point is approached a mild deceleration should be executed to reduce airspeed. As collective is increased to cushion touchdown the nose of the helicopter will yaw right. Careful adjustment of collective and deceleration should allow a tail-low touchdown with approximate runway alignment. Upon touchdown lower collective carefully. Use <q>brakes</q> to control heading.</line>
+<line>1. <q>collective</q> - <q>adjust</q> </line>
+<line>2. LAND AS SOON AS PRACTICABLE</line>
+</question>
+
+<question><title>PEDAL BIND/RESTRICTION OR DRIVE WITH NO ACCOMPANYING CAUTION</title>
+<line>An internally jammed yaw trim actuator can produce up to <q>80</q> pounds until clutch slippage relieves this force.</line>
+<line>Hardover failure of the yaw boost servo will increase control forces as much as <q>250</q> pounds on the pedals.</line>
+<line>1. <q>apply pedal force to oppose the drive</q> </line>
+<line>2. <q>trim switch</q> - <q>off</q> </line>
+<line>If normal control forces are not restored:</line>
+<line>3. <q>boost switch</q> - <q>off</q> </line>
+<line>If control forces normal for boost off flight are not restored:</line>
+<line>4. <q>boost switch</q> - <q>on</q> </line>
+<line>5. TAIL SERVO switch - BACKUP if tail rotor is not restored</line>
+</question>
+
+<question><title>MAIN XMSN OIL PRESS CAUTION APPEARS/XMSN OIL PRESS LOW/XMSN OIL TEMP HIGH OR XMSN OIL TEMP CAUTION APPEARS</title>
+<line>1. LAND AS SOON AS <q>possible</q> </line>
+<line>If time permits:</line>
+<line>2. Slow to <q>80</q> KIAS</line>
+<line>3. <q>emer apu start</q> </line>
+<line>4. GENERATORS NO. 1 and NO. 2 switches OFF</line>
+</question>
+
+<question><title>CHIP INPUT MDL LH OR RH CAUTION APPEARS</title>
+<line>1. <q>eng power cont lever on affected engine</q> - <q>idle</q> </line>
+<line>2. LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>CHIP MAIN MDL SUMP; CHIP ACCESS MDL LH OR RH; CHIP TAIL XMSN OR CHIP INT XMSN/TAIL XMSN OIL TEMP OR INT XMSN OIL TEMP CAUTION APPEARS</title>
+<line>LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>MAIN TRANSMISSION FAILURE</title>
+<line>1. <q>collective</q> - <q>adjust only enough to begin a descent with power remaining applied to the main transmission throughout the descent and landing</q> </line>
+<line>2. LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>ENGINE/FUSELAGE FIRE ON GROUND</title>
+<line>1. <q>eng power cont levers</q> - <q>off</q> </line>
+<line>2. <q>eng emer off handle</q> - <q>pull if applicable</q> </line>
+<line>3. <q>fire extgh switch</q> - <q>main</q>/<q>reserve as required</q> </line>
+</question>
+
+<question><title>APU COMPARTMENT FIRE</title>
+<line>1. <q>apu fire t</q>-<q>handle</q> - <q>pull</q> </line>
+<line>2. <q>fire extgh switch</q> - <q>main</q>/<q>reserve as required</q> </line>
+</question>
+
+<question><title>ENGINE FIRE IN FLIGHT</title>
+<line>1. <q>establish single engine airspeed</q> </line>
+<line>2. <q>eng power cont lever</q> (<q>affected engine</q>) - <q>off</q> </line>
+<line>3. <q>eng emer off handle</q> - <q>pull</q> </line>
+<line>4. <q>fire extgh switch</q> - <q>main</q>/<q>reserve as required</q> </line>
+<line>5. LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>ELECTRICAL FIRE IN FLIGHT</title>
+<line>1. <q>batt and generators switches</q> - <q>off</q></line>
+<line>2. LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>#1 AND #2 FUEL FLTR BYPASS CAUTIONS APPEAR</title>
+<line>LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>#1 OR #2 FUEL PRESS CAUTION APPEARS</title>
+<line>If the caution appears and the situation is critical:</line>
+<line>1. <q>fuel boost pump control switches</q> - <q>no 1 pump and no 2 pump</q> - <q>on</q> </line>
+<line>2. LAND AS SOON AS <q>practicable</q> </line>
+</question>
+
+<question><title>#1 AND #2 FUEL PRESS CAUTIONS APPEAR</title>
+<line>LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>#1 AND #2 GENERATOR FAILURE (#1 AND #2 CONV AND AC ECC BUS OFF CAUTIONS APPEAR)</title>
+<line>1. SAS 1 switch - press off</line>
+<line>2. Airspeed - adjust (80 KIAS or less)</line>
+<line>3. GENERATORS NO. 1 and NO. 2 switches - RESET; then ON</line>
+<line>If cautions still appear:</line>
+<line>3. GENERATORS NO. 1 and NO. 2 switches - OFF</line>
+<line>5. <q>emer apu start</q> </line>
+<line>6. SAS 1 switch - ON</line>
+<line>7. If MCUs are in use: BCA MCU control knobs (pilot copilot and crewmembers) - OFF</line>
+<line>8. LAND AS SOON AS <q>practicable</q> </line>
+</question>
+
+<question><title>#1 AND #2 HYD PUMP CAUTIONS APPEAR</title>
+<line>LAND AS SOON AS <q>possible</q>. Restrict control movement to moderate rates. </line>
+</question>
+
+<question><title>#1 OR #2 HYD PUMP CAUTION APPEARS AND BACK-UP PUMP ON ADVISORY DOES NOT APPEAR</title>
+<line>Loss of both the No. 1 hydraulic pump and backup pump results in both stages of the tail-rotor servo being unpressurized. The yaw boost servo is still pressurized and the mechanical control system is still intact allowing limited tail-rotor control. Because of the limited yaw control range available a <q>roll on landing 40 kias or above</q> is required.</line>
+<line>Loss of both the No. 2 hydraulic pump and the backup pump results in the loss of pilot-assist servos.</line>
+<line>1. <q>airspeed</q> - <q>adjust</q> to a comfortable airspeed</line>
+<line>2. <q>backup hyd pump switch</q> - <q>on</q> </line>
+<line>If BACKUP PUMP ON advisory still does not appear:</line>
+<line>3. <q>fps and boost switches</q> - <q>off</q> (<q>for #2 hyd pump caution</q>)</line>
+<line>4. LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>#1 OR #2 PRI SERVO PRESS CAUTION APPEARS</title>
+<line>1. <q>svo off switches</q> - <q>check both are centered</q> </line>
+<line>2. <q>if the caution appears with the svo off switch centered move the svo off switch to turn off the malfunctioning servo</q> </line>
+<line>3. LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>#1 RSVR LOW AND #1 HYD PUMP CAUTIONS APPEAR WITH BACK-UP PUMP ON ADVISORY APPEARING</title>
+<line>1. LAND AS SOON AS <q>practicable</q> </line>
+<line>If the BACK-UP RSVR LOW caution also appears:</line>
+<line>2. <q>svo off switch</q> - <q>1st stg</q> </line>
+<line>3. LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>#2 RSVR LOW AND #2 HYD PUMP CAUTIONS APPEAR WITH BACK-UP PUMP ON ADVISORY APPEARING</title>
+<line>1. POWER ON RESET switches - simultaneously press then release</line>
+<line>2. LAND AS SOON AS <q>practicable</q> </line>
+<line>If BACK-UP RSVR LOW caution also appears:</line>
+<line>3. <q>svo off switch</q> - <q>2nd stg</q> </line>
+<line>4. LAND AS SOON AS <q>possible</q> </line>
+</question>
+
+<question><title>COLLECTIVE BOOST SERVO HARDOVER/POWER PISTON FAILURE</title>
+<line>1. <q>boost switch</q> - <q>off</q> </line>
+<line>2. LAND AS SOON AS <q>practicable</q> </line>
+</question>
+
+<question><title>EMERGENCY LANDING IN WOODED AREAS POWER OFF</title>
+<line>1. <q>autorotate</q> Decelerate helicopter to stop all forward speed at treetop level</line>
+<line>2. <q>collective</q> - <q>adjust</q> to maximum before main rotor contacts tree branches</line>
+</question>
+
+<question><title>DITCHING POWER OFF</title>
+<line>1. <q>autorotate</q> </line>
+<line>2. Cockpit doors jettison and cabin doors open prior to entering water.</line>
+<line>3. Cyclic - Position in direction of roll.</line>
+<line>4. Exit when main rotor has stopped.</line>
+</question>
+
+<question><title>FLIGHT CONTROL/MAIN ROTOR SYSTEM MALFUNCTIONS</title>
+<line>Failure of components within the flight control system may be indicated through varying degrees of feedback binding resistance or sloppiness. These conditions should not be mistaken for malfunction of the <q>afcs</q></line>
+<line>1. LAND AS SOON AS <q>possible</q> </line>
+<line>2. <q>emer eng shutdown after landing</q> </line>
+</question>
+
+<question><title>AIRSPEED FAULT</title>
+<line>If the airspeed fault advisory light is illuminated continued flight above <q>70</q> KIAS with the stabilator in AUTO MODE is unsafe since a loss of the airspeed signal from the remaining airspeed sensor would result in the stabilator slewing <q>full down</q></line>
+<line>If the stabilator AUTO mode repeatedly disengages during a flight: flight above <q>70</q> KIAS is prohibited with the stabilator in AUTO mode</line>
+</question>
+
+<question><title>STABILATOR MALFUNCTION-AUTO MODE FAILURE</title>
+<line>1. <q>cyclic mounted stabilator slew</q>-<q>up switch</q> - <q>adjust if necessary</q> to arrest or prevent nose down pitch rate</line>
+<line>2. <q>auto control switch</q> - <q>press on once after establishing a comfortable airspeed</q> </line>
+<line>If automatic control is not regained:</line>
+<line>3. Manually slew stabilator - Adjust to 0 for flight above 40 KIAS or full down when airspeed is below 40 KIAS. The preferred method of manually slewing the stabilator up is to use the cyclic mounted stabilator slew-up switch.</line>
+<line>4. LAND AS SOON AS <q>practicable</q> </line>
+<line>If manual control is not possible:</line>
+<line>5. STAB POS indicator - Check and fly at or below KIAS LIMITS shown on placard</line>
+<line>6. LAND AS SOON AS <q>practicable</q> </line>
+</question>
+
+<question><title>UNCOMMANDED NOSE DOWN PITCH ATTITUDE CHANGE</title>
+<line>If an uncommanded nose down pitch attitude occurs:</line>
+<line>1. <q>cyclic</q> - <q>adjust as required</q> </line>
+<line>2. <q>collective</q> - <q>maintain or increase</q> </line>
+<line>3. <q>cyclic mounted stabilator slew</q>-<q>up switch</q> - <q>adjust as required</q> to arrest nose down pitch rate</line>
+<line>4. MAN SLEW switch - adjust to 0 at airspeeds above 40 KIAS and full down at airspeeds below 40 KIAS</line>
+<line>5. LAND AS SOON AS <q>practicable</q> </line>
+</question>
+
+<question><title>UNCOMMANDED NOSE UP PITCH ATTITUDE CHANGE</title>
+<line>If an uncommanded nose up pitch attitude occurs:</line>
+<line>1. <q>cyclic</q> - <q>adjust as required</q> </line>
+<line>2. <q>collective</q> - <q>reduce as required</q> </line>
+<line>3. MAN SLEW switch - adjust to 0 at airspeeds above 40 KIAS and full down at airspeeds below 40 KIAS</line>
+<line>4. LAND AS SOON AS <q>practicable</q> </line>
+</question>
+
+</quizdata>

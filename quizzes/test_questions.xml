@@ -1,0 +1,33 @@
+<quizdata>
+<question><title>ENGINE COMPRESSOR STALL</title>
+<line>An engine compressor stall is normally recognized by a <q>noticeable bang</q> or <q>popping noise</q> and possible aircraft yaw.</line>
+<line>These responses are normally accompanied by the rapid increase in <q>tgt temp</q> and fluctuations in <q>ng speed</q>; <q>% trq</q>; and <q>% rpm</q> for the affected engine.</line>
+<line>In the event of a compressor stall:</line>
+<line>1. <q>collective</q> - <q>reduce</q> </line>
+<line>If condition persists:</line>
+<line>2. <q>eng power cont lever</q> (<q>affected engine</q>) - <q>retard</q>. (TGT TEMP should decrease)</line>
+<line>3. ENG POWER CONT lever (affected engine) - FLY</line>
+<line>If stall condition recurs:</line>
+<line>4. <q>establish single engine airspeed</q> </line>
+<line>5. <q>emer eng shutdown</q> (affected engine)</line>
+<line>6. Refer to single engine failure emergency procedure</line>
+</question>
+
+<question><title>WHAT IS THE AIRSPEED OF AN UNLADEN FALCON</title>
+<line><q>european or african</q>?</line>
+</question>
+
+<question><title>WHY IS THE SKY BLUE</title>
+<line><q>atmospheric absorption of light</q></line>
+</question>
+
+<question><title>WHAT DOES NOBODY EXPECT</title>
+<line><q>the spanish inquisition</q></line>
+</question>
+
+<question><title>FUEL QUANTITY</title>
+<line><q>200</q> to <q>1500</q> lbs normal</line>
+<line>&lt; <q>200</q> lbs precautionary</line>
+</question>
+
+</quizdata>

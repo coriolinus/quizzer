@@ -1,0 +1,48 @@
+<quizdata>
+<question><title>LOSS OF TAIL ROTOR THRUST IN CRUISE FLIGHT</title>
+<line>1. <q>airspeed</q> - <q>adjust to 80 kias or above</q></line>
+<line>2. <q>autorotate</q> - <q>maintain airspeed at or above 80 kias</q></line>
+<line>3. <q>eng power cont levers</q> - <q>off</q> (<q>during deceleration when intended point of landing is assured</q>)</line>
+</question>
+
+<question><title>LOSS OF TAIL ROTOR THRUST OR TAIL ROTOR QUADRANT CAUTION APPEARS WITH LOSS OF CONTROL AT LOW AIRSPEED/HOVER (RIGHT ROTATION)</title>
+<line>1. <q>collective</q> - <q>reduce</q> </line>
+<line>2. <q>eng power cont levers</q> - <q>off</q> (<q>5 to 10 feet above touchdown</q>)</line>
+</question>
+
+<question><title>TAIL ROTOR QUADRANT CAUTION APPEARS IN CRUISE FLIGHT</title>
+<line>b. If both tail rotor control cables fail a centering spring will position the tail rotor servo linkage to provide <q>10.5</q> degrees of pitch.</line>
+<line>This will allow trimmed flight at about <q>25</q> and <q>145</q> KIAS (these speeds will vary with gross weight).</line>
+<line>1. <q>collective</q> - <q>adjust to determine controllability</q> (<q>fixed left or right</q>)</line>
+<line>2. LAND AS SOON AS PRACTICABLE</line>
+</question>
+
+<question><title>TAIL ROTOR QUADRANT CAUTION APPEARS OR LOSS OF CONTROL AT LOW AIRSPEED/HOVER (LEFT ROTATION)</title>
+<line>1. <q>eng power cont levers</q> - <q>retard to begin a partial power descent</q></line>
+<line>2. <q>collective</q> - <q>adjust to preserve rpm r</q></line>
+<line>3. <q>eng power cont levers</q> - <q>off</q> (<q>5 to 10 feet above touchdown</q>)</line>
+<line>4. <q>collective</q> - <q>adjust for landing</q></line>
+</question>
+
+<question><title>PEDAL BIND/RESTRICTION OR DRIVE WITH NO ACCOMPANYING CAUTION</title>
+<line>An internally jammed yaw trim actuator can produce up to <q>80</q> pounds until clutch slippage relieves this force.</line>
+<line>Hardover failure of the yaw boost servo will increase control forces as much as <q>250</q> pounds on the pedals.</line>
+<line>1. <q>apply pedal force to oppose the drive</q> </line>
+<line>2. Check other pedals for proper operation.</line>
+<line>3. TAIL SERVO switch - BACKUP</line>
+<line>If normal control authority is not restored:</line>
+<line>4. TAIL SERVO switch - NORMAL</line>
+<line>5. BOOST switch - OFF</line>
+<line>If normal control forces are not restored:</line>
+<line>6. BOOST switch - ON</line>
+<line>7. Collective - Adjust to determine controllability for landing</line>
+<line>8. LAND AS SOON AS PRACTICABLE</line>
+</question>
+
+<question><title>#1 TAIL RTR SERVO CAUTION APPEARS AND BACK-UP PUMP ON ADVISORY DOES NOT APPEAR OR #2 TAIL RTR SERVO ON ADVISORY DOES NOT APPEAR</title>
+<line>Automatic switch over did not take place. Loss of both the No. 1 Hydraulic pump and backup pump results in both stages of the tail-rotor servo being unpressurized. The yaw boost servo is still pressurized and the mechanical control system is still intact allowing limited tail-rotor control. Because of the limited yaw control range available a roll-on landing 40 kias or above is required. Loss of both the No. 2 hydraulic pump and the backup pump results in the loss of pilot-assist servos.</line>
+<line>1. <q>tail servo switch</q> - <q>backup</q></line>
+<line>2. <q>backup hyd pump switch</q> - <q>on</q></line>
+<line>3. LAND AS SOON AS <q>practicable</q></line>
+</question>
+</quizdata>

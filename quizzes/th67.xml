@@ -1,0 +1,404 @@
+<quizdata>
+<question><title>ENGINE OIL TEMPERATURE</title>
+<line><q>0</q> C to <q>107</q> C Continuous Operation</line>
+<line><q>107</q> C Maximum</line>
+</question>
+
+<question><title>ENGINE OIL PRESSURE</title>
+<line><q>50</q> PSI Minimum below <q>78</q> % N1</line>
+<line><q>90</q> PSI Minimum from <q>78</q> % to <q>94</q> % N1</line>
+<line><q>115</q> PSI Minimum above <q>94</q> % N1 (double wide arc)</line>
+<line><q>50</q> PSI Minimum <q>130</q> PSI Maximum</line>
+</question>
+
+<question><title>TRANSMISSION OIL PRESSURE</title>
+<line><q>30</q> to <q>50</q> PSI Continuous Operation</line>
+<line><q>30</q> PSI Minimum <q>70</q> PSI Maximum</line>
+</question>
+
+<question><title>TRANSMISSION OIL TEMPERATURE</title>
+<line><q>15</q> C to <q>110</q> C Continuous Operation</line>
+<line><q>110</q> C <q>maximum</q></line>
+</question>
+
+<question><title>LOADMETER</title>
+<line><q>70</q> % Maximum</line>
+</question>
+
+<question><title>FUEL PRESSURE</title>
+<line><q>4.0</q> PSI Minimum</line>
+<line><q>4.0</q> to <q>30</q> PSI Continuous Operation</line>
+<line><q>30</q> PSI Maximum</line>
+<line><q>8</q> PSI Minimum - Type A A-1 JP-5 JP-8 fuel below -18C (0F) to -32C (-25F)</line>
+</question>
+
+<question><title>AIRSPEED INDICATOR</title>
+<line><q>0</q> to <q>130</q> Knots Continuous Operation</line>
+<line><q>130</q> Knots Maximum</line>
+<line><q>100</q> Knots Maximum for <q>autorotation</q></line>
+</question>
+
+<question><title>TURBINE OUTLET TEMPERATURE GAUGE</title>
+<line><q>100</q> to <q>738</q> C Continuous Operation</line>
+<line><q>738</q> to <q>810</q> C Take-off Power Range (<q>5</q> Minute Limit)</line>
+<line><q>810</q> C Maximum</line>
+<line><q>810</q> to <q>843</q> C <q>6</q> second transient (not to be used intentionally)</line>
+<line><q>927</q> C Maximum During Starting and Shutdown (<q>10</q> seconds maximum)</line>
+</question>
+
+<question><title>GAS PRODUCER</title>
+<line><q>62</q> to <q>105</q> % <q>continuous</q> Operation</line>
+<line><q>105</q> % Maximum</line>
+<line><q>105</q> to <q>106</q> % Transient (<q>15</q> seconds maximum)</line>
+</question>
+
+<question><title>ROTOR LIMITATIONS</title>
+<line><q>90</q> % Minimum Operation</line>
+<line><q>50</q> to <q>60</q> Accelerate through this range</line>
+<line><q>90</q> to <q>107</q> % Normal Operation</line>
+<line><q>107</q> % Maximum</line>
+<line>Power on transient rotor droop limit is <q>95</q> % (<q>5</q> seconds maximum)</line>
+</question>
+
+<question><title>POWER TURBINE INDICATOR</title>
+<line><q>97</q> % Minimum Operation</line>
+<line><q>97</q> to <q>100</q> % Continuous Operation</line>
+<line><q>100</q> % <q>maximum</q></line>
+</question>
+
+<question><title>TORQUE METER</title>
+<line><q>0</q> to <q>85</q> % Continuous Operation</line>
+<line>Greater than <q>85</q> to <q>100</q> % Take-off Power Range (<q>5</q> Minute Limit)</line>
+<line><q>100</q> % Maximum</line>
+<line>Transient Torque Limit is <q>100</q> to <q>110</q> % (<q>5</q> second maximum) INTENTIONAL USE PROHIBITED</line>
+</question>
+
+<question><title>PLACARDS</title>
+<line>NOTE: <q>all</q> placards are part of the FAA required items for certification of the aircraft and must be maintained in their original location and in a <q>useable</q> condition</line>
+</question>
+
+<question><title>ALTITUDE LIMITATIONS 3000 POUNDS GROSS WEIGHT AND BELOW</title>
+<line>Maximum operating: VFR: <q>20000</q> ft pressure altitude; IFR: <q>14000</q> ft pressure altitude</line>
+</question>
+
+<question><title>ALTITUDE LIMITATIONS ABOVE 3000 POUNDS GROSS WEIGHT</title>
+<line>Maximum operating: VFR: <q>13500</q> ft pressure altitude; IFR: <q>8000</q> ft pressure altitude</line>
+</question>
+
+<question><title>WIND LIMITATIONS</title>
+<line>The helicopter can be started in a maximum wind velocity of <q>45</q> knots and a maximum gust spread of <q>15</q> knots</line>
+<line>Maximum wind for hovering is <q>35</q> knots crosswind and <q>30</q> knots tailwind</line>
+</question>
+
+<question><title>ENGINE STARTER LIMITS</title>
+<line>External power: if no rise in TOT in first 20 seconds sequence <q>25</q>s on <q>30</q>s off <q>25</q>s on <q>30</q>s off <q>25</q>s on <q>30</q>m off</line>
+<line>Battery power: if no rise in TOT in first 20 seconds sequence <q>40</q>s on <q>60</q>s off <q>40</q>s on <q>60</q>s off <q>40</q>s on <q>30</q>m off</line>
+<line>If there is a rise in TOT within first 20 seconds sequence <q>1</q>m on <q>1</q>m off <q>1</q>m on <q>1</q>m off <q>1</q>m on <q>30</q>m off</line>
+</question>
+
+<question><title>ENGINE STARTING LIMITATIONS</title>
+<line>During starting if N1 does not reach 50% in a total time of <q>45</q> seconds (or <q>60</q> seconds below 10 C FAT) close throttle and press starter button until TOT is below <q>200</q> C. If engine fails to start on third attempt abort start and make an entry on DA Form 2408-13-1. Starter engage time limits above do not apply to engine starting limitations should abort start procedures become necessary.</line>
+</question>
+
+<question><title>WEIGHT LIMITATIONS</title>
+<line>Maximum allowable ramp weight is <q>3350</q>lbs. Minimum front seat weight is <q>170</q>lbs.</line>
+</question>
+
+<question><title>VMC AIRSPEED LIMITATIONS 3000 POUNDS GROSS WEIGHT AND BELOW</title>
+<line>VMC VNE <q>130</q> KIAS sea level to 3000 feet density altitude. Decrease VNE <q>3.5</q> KIAS per 000 feet above 3000 feet density altitude.</line>
+<line>Maximum density altitude - <q>20000</q> feet.</line>
+</question>
+
+<question><title>VMC AIRSPEED LIMITATIONS ABOVE 3000 POUNDS GROSS WEIGHT</title>
+<line>VMC VNE <q>122</q> knots sea level to 3000 feet density altitude. Decrease VNE 7.0 KIAS per <q>1000</q> feet above 3000 feet density altitude. Maximum density altitude - <q>13500</q> feet.</line>
+</question>
+
+<question><title>IMC AIRSPEED LIMITATIONS</title>
+<line>Minimum climb (VYI) - <q>70</q> KIAS</line>
+<line>Minimum speed (VMINI) - <q>50</q> KIAS</line>
+<line>Maximum speed (VNEI) - <q>110</q> KIAS or placarded whichever is less.</line>
+</question>
+
+<question><title>FLIGHT RESTRICTION FOR HIGH POWER</title>
+<line>VNE is <q>80</q> knots with >85% TO 100% Torque applied.</line>
+</question>
+
+<question><title>SLOPE LANDING/TAKEOFF LIMITATIONS</title>
+<line>Slope operations shall be limited to slopes of <q>8</q> degrees or less.</line>
+<line>Caution is to be exercised for slopes greater than <q>5</q> degrees since rigging <q>loading</q> terrain and <q>wind</q> conditions may alter the slope landing capability.</line>
+</question>
+
+<question><title>AUTOROTATE</title>
+<line>The term Autorotate is defined as adjusting the <q>flight controls</q> as necessary to establish an <q>autorotational</q> decent and landing</line>
+<line>1. <q>collective</q> - <q>adjust</q> as required to maintain rotor RPM (90 to 107%)</line>
+<line>2. <q>pedals</q> - <q>adjust</q> Crab or Slip as required</line>
+<line>3. <q>throttle</q> - <q>adjust as necessary</q> Close as required</line>
+<line>4. <q>airspeed</q> - <q>adjust</q> as required.</line>
+</question>
+
+<question><title>EMERGENCY SHUTDOWN</title>
+<line>The term Emergency Shutdown is defined as <q>engine shutdown without delay</q>.</line>
+<line>1. <q>throttle</q> - close.</line>
+<line>2. <q>fuel valve switch</q> - <q>off</q></line>
+<line>3. <q>batt switch</q> - <q>off as desired</q></line>
+</question>
+
+<question><title>ENGINE FAILURE AT A HOVER</title>
+<line><q>autorotate</q></line>
+<line><q>emer shutdown</q> - accomplish after landing</line>
+</question>
+
+<question><title>ENGINE FAILURE -- LOW ALTITUDE / LOW AIRSPEED OR CRUISE</title>
+<line><q>autorotate</q></line>
+<line><q>emer shutdown</q> - accomplish during descent if time permits</line>
+</question>
+
+<question><title>ENGINE RESTART -- DURING FLIGHT</title>
+<line><q>throttle</q> - <q>close</q></line>
+<line>Fuel <q>valve switch</q> - <q>on</q></line>
+<line><q>attempt start</q></line>
+<line><q>land as soon as possible</q></line>
+</question>
+
+<question><title>ENGINE COMPRESSOR STALL</title>
+<line>Engine compressor stall may be characterized by a sharp <q>rumble</q> or a series of loud sharp reports severe engine <q>vibration</q> and a rapid rise in TURB OUT TEMP.</line>
+<line>Should engine compressor stall occur:</line>
+<line><q>collective</q> - <q>reduce</q></line>
+<line><q>engine</q> anti-ice and <q>heater switches</q> - <q>off</q></line>
+<line>Land as soon as <q>possible</q></line>
+</question>
+
+<question><title>ENGINE OVERSPEED</title>
+<line>Engine overspeed will be indicated by a <q>right</q> yaw rapid increase in both <q>rotor</q> and <q>engine</q> RPM and an increase in engine and rotor noise.</line>
+<line>If an engine overspeed is experienced:</line>
+<line>1. <q>collective</q> - <q>increase</q> to load the rotor and sustain engine/rotor RPM below the maximum operating limit</line>
+<line>2. <q>throttle</q> - <q>adjust</q> until normal operating RPM is attained</line>
+<line>3. <q>land as soon as possible</q></line>
+<line>Perform a power-on approach and landing by controlling the RPM manually with the throttle.</line>
+<line>If RPM cannot be controlled by throttle adjustment:</line>
+<line>1. <q>autorotate</q> when over a safe landing area</line>
+<line>2. <q>emer shutdown</q> - accomplish during descent if time permits</line>
+</question>
+
+<question><title>ENGINE UNDERSPEED</title>
+<line>If an engine underspeed occurs the collective must be adjusted downward to maintain rotor RPM within limits.</line>
+<line>If powered flight with rotor in the green can be accomplished:</line>
+<line><q>land as soon</q> as <q>possible</q> in an area that will permit a run-on landing.</line>
+<line>An engine underspeed below 90% results in rotor RPM decay below minimum safe limits. Should it occur:</line>
+<line><q>autorotate</q></line>
+<line><q>emer shutdown</q> - accomplish during descent if time permits</line>
+</question>
+
+<question><title>ENGINE SURGES</title>
+<line>GOV <q>incr switch</q> - <q>incr for maximum rpm</q></line>
+<line><q>throttle</q> - <q>adjust to 97%</q> N2</line>
+<line><q>land as soon as possible</q></line>
+<line>If engine surges are not controlled in steps a and b above proceed as follows:</line>
+<line><q>autorotate</q> when over a safe landing area</line>
+<line><q>emer shutdown</q> - accomplish during descent if time permits</line>
+</question>
+
+<question><title>FUEL BOOST PUMP FAILURE</title>
+<line>a. <q>descend</q> to below <q>6000</q> feet pressure altitude if possible</line>
+<line>b. Land as soon as <q>practicable</q></line>
+</question>
+
+<question><title>LOW INLET PRESSURE</title>
+<line>LOW INLET PRESSURE caution light ON</line>
+<line>1. <q>engine alternate air switch</q> - <q>open</q></line>
+<line>2. <q>if caution light remains on</q> land as soon as <q>possible</q></line>
+</question>
+
+<question><title>ENGINE ICING</title>
+<line>1. <q>engine anti</q> - <q>icing switch</q> - <q>on</q> (if conditions warrant)</line>
+<line>2. <q>turb out temp</q> - <q>maintain within limits</q></line>
+</question>
+
+<question><title>LOW ENGINE OIL PRESSURE/HIGH ENGINE OIL TEMPERATURE</title>
+<line>If the engine oil pressure is below 50 PSI or the temperature is above 107 C</line>
+<line><q>land as soon as possible</q></line>
+</question>
+
+<question><title>AIR CONDITIONING MALFUNCTION</title>
+<line>The type of malfunction that wqould create a potential emergency involves a failure of the compressor drive belt that would cause a noticeable vibration or noise.</line>
+<line>Air Conditioning and <q>fan</q> switch - <q>off</q></line>
+<line>Land as soon as <q>practicable</q></line>
+</question>
+
+<question><title>LOSS OF TAIL ROTOR EFFECTIVENESS</title>
+<line>1. <q>pedal</q> - <q>full left</q></line>
+<line>2. <q>cyclic</q> - <q>forward</q></line>
+<line>3. As recovery is affected adjust controls for <q>normal</q> flight</line>
+</question>
+
+<question><title>MAIN DRIVE SHAFT FAILURE</title>
+<line>A failure of the main driveshft will be indicated by a sudden increase in engine RPM; decrease in <q>rotor rpm</q></line>
+<line>a <q>left</q> yaw</line>
+<line>activation of the low RPM audio and illumination of the ROTOR RPM light. A transient overspeed of N1 and N2 may occur but will stabilize. In the event of main driveshaft failure</line>
+<line>1. <q>autorotate</q> - <q>establish a power on autorotation</q></line>
+<line>2. <q>emer shutdown</q> - <q>accomplish after landing</q></line>
+</question>
+
+<question><title>CLUTCH FAILS TO DISENGAGE</title>
+<line>A clutch failing to disengage in flight will be indicated by the <q>rotor</q> RPM decaying with the <q>engine</q> RPM as the throttle is reduced to the engine idle position when entering an autorotational descent.</line>
+<line>This condition results in <q>total</q> loss of autorotational capability.</line>
+<line>If a failure occurs:</line>
+<line>a. <q>throttle</q> - <q>open</q></line>
+<line>b. <q>land as soon as possible</q></line>
+</question>
+
+<question><title>MAST BUMPING</title>
+<line><q>land as soon as possible</q></line>
+</question>
+
+<question><title>HOT START</title>
+<line>During starting or shutdown if TOT limits are exceeded or it becomes apparent the TOT limits may be exceeded proceed as follows:</line>
+<line>a. <q>starter button</q> - <q>press and hold until turb out temp is less than 200 c</q></line>
+<line>b. <q>throttle</q> - <q>close</q></line>
+<line>c. <q>fuel valve switch</q> - <q>off</q></line>
+<line>d. <q>complete shutdown</q></line>
+</question>
+
+<question><title>ENGINE/FUSELAGE/ELECTRICAL FIRE -- GROUND</title>
+<line><q>emer shutdown</q></line>
+</question>
+
+<question><title>ENGINE/FUSELAGE FIRE - FLIGHT</title>
+<line>If a fire is observed during flight prevailing circumstances such as <q>vmc</q></line>
+<line><q>imc</q></line>
+<line><q>night</q></line>
+<line><q>altitude</q></line>
+<line>and landing areas available must be considered in order to determine whether to execute power-on or power-off landing.</line>
+<line>a. If power-on landing:</line>
+<line>1. <q>land as soon as possible</q></line>
+<line>2. <q>emer shutdown</q> - <q>accomplish after landing</q></line>
+<line>b. If power-off landing:</line>
+<line>1. <q>autorotate</q></line>
+<line>2. <q>emer shutdown</q> - accomplish during descent if time permits</line>
+</question>
+
+<question><title>ELECTRICAL FIRE -- FLIGHT</title>
+<line>a. <q>batt and main gen switches</q> - <q>off</q></line>
+<line>b. IFR <q>stdby gen switch</q> - <q>off</q></line>
+<line>c. <q>land as soon as possible</q></line>
+<line>d. <q>emer shutdown</q> - accomplish after landing</line>
+</question>
+
+<question><title>SMOKE AND FUME ELIMINATION</title>
+<line>a. VENTS - <q>open</q></line>
+<line>b. COCKPIT AND CABIN WINDOWS - Open for <q>maximum ventilation</q></line>
+</question>
+
+<question><title>VFR AND A+ MAIN GENERATOR FAILURE -- NO OUTPUT</title>
+<line>a. A no-output malfunction of the generator will be indicated by a zero indication on the DC Load Meter and an illumination of the MAIN GEN FAIL caution light. An attempt may be made to put the generator back on line by accomplishing the following:</line>
+<line>1. <q>gen field</q> and <q>gen reset</q> Circuit Breakers - Check In</line>
+<line>2. MAIN GEN switch - reset then MAIN GEN. (Do not hold the switch in the <q>reset</q> position.)</line>
+<line>b. If the generator is not restored or if it goes off line again:</line>
+<line>1. <q>main gen switch</q> - Off</line>
+<line>2. Turn OFF all <q>unnecessary</q> electrical equipment</line>
+<line>3. Land as soon as <q>practicable</q></line>
+</question>
+
+<question><title>HYDRAULIC POWER FAILURE</title>
+<line>a. The first indication of hydraulic boost failure will be <q>an increase</q> in the force required for control movement;</line>
+<line><q>feedback forces</q> will be noticed as well as rate limiting.</line>
+<line>Control motions will result in normal flight reactions in all respects except for the increase in force required for control movement. In the event of hydraulic power failure proceed as follows:</line>
+<line>1. <q>airspeed</q> - adjust as necessary to attain the most comfortable level of control movements</line>
+<line>2. HYD BOOST circuit breaker - <q>out</q>. Check for restoration of hydraulic power.</line>
+<line>b. If hydraulic power is not restored.</line>
+<line>1. HYD BOOST circuit breaker - <q>in</q></line>
+</question>
+
+<question><title>LANDING IN TREES</title>
+<line>A landing in trees should be made when no other landing area is available.</line>
+<line>In addition to accomplishing engine malfunction emergency procedures select a landing area containing the <q>least</q> number of trees of <q>minimum</q> height.</line>
+<line>Autorotate with the throttle closed using the following procedures:</line>
+<line>a. <q>airspeed</q> - <q>minimum</q> at treetop level</line>
+<line>b. <q>descend</q> - <q>vertically into trees</q></line>
+<line>c. <q>collective</q> - <q>apply</q> remaining collective prior to blades entering trees</line>
+</question>
+
+<question><title>DITCHING - POWER ON</title>
+<line>If ditching becomes necessary with power available accomplish an approach to a hover above the water and:</line>
+<line>a. <q>doors</q> - <q>open</q></line>
+<line>b. Crew (except pilot) and passengers - Exit.</line>
+<line>c. Hover a safe distance away from personnel.</line>
+<line>d. <q>autorotate</q></line>
+<line>Apply all remaining collective as the helicopter enters the water. Maintain a level attitude as the helicopter enters the water. Maintain a level attitude as the helicopter sinks and until it begins to roll then apply cyclic in direction of the roll.</line>
+<line>e. Pilot - Exit when the main rotor stops.</line>
+</question>
+
+<question><title>DITCHING - POWER OFF</title>
+<line>If an engine failure occurs over water and dicthing is imminent accomplish engine failure emergency procedures and proceed as follows:</line>
+<line>a. <q>autorotate</q></line>
+<line>Decelerate to minimum forward speed as the helicopter nears the water. Apply all remaining collective as the helicopter enters the water. Maintain a level attitude as the helicopter sinks and until it begins to roll then apply cyclic in the direction of the roll.</line>
+<line>b. <q>doors</q> - <q>open</q></line>
+<line>c. <q>crew</q> and <q>passengers</q> - <q>exit</q> when the main rotor stops</line>
+</question>
+
+<question><title>FLIGHT CONTROL MALFUNCTIONS</title>
+<line>Failure of components within the flight control system may be indicated through varying degrees of <q>feedback binding resistance</q> or sloppiness.</line>
+<line>These conditions should not be mistaken for <q>hydraulic</q> power failure.</line>
+<line>In the event of a flight control malfunction:</line>
+<line>a. <q>land as soon as possible</q></line>
+<line>b. <q>emer shutdown</q> - accomplish after landing</line>
+</question>
+
+<question><title>LIGHTNING STRIKE</title>
+<line>a. <q>land as soon as possible</q></line>
+<line>b. <q>emer shutdown</q> - accomplish after landing</line>
+</question>
+
+<question><title>ENGINE OUT WARNING SYSTEM</title>
+<line>When this system is activated an <q>intermittant</q> audio signal is produced and the ENG OUT light is illuminated (GAS PRODUCER less than <q>55</q> % +- 3)</line>
+</question>
+
+<question><title>ROTOR LOW RPM WARNING SYSTEM</title>
+<line>When this system is activated the ROTOR LOW RPM light is illuminated and a <q>steady</q> autio signal is produced.</line>
+<line>The low RPM warning system is activated when rotor rpm is less than <q>90</q> %.</line>
+</question>
+
+<question><title>BATTERY HOT</title>
+<line><q>land as soon as possible</q></line>
+</question>
+
+<question><title>TRANS OIL PRESS</title>
+<line>Main transmission pressure is below minimum. Check gauge.</line>
+<line><q>land as soon as possible</q></line>
+</question>
+
+<question><title>TRANS OIL TEMP</title>
+<line>Main transmission oil temperature is above 110 degrees C. Check gauge.</line>
+<line><q>reducing</q> power may help alleviate the condition. Check transmission oil pressure.</line>
+<line><q>land as soon as possible</q></line>
+</question>
+
+<question><title>BATTERY TEMP</title>
+<line><q>land as soon as possible</q></line>
+</question>
+
+<question><title>ENGINE CHIP</title>
+<line>Metallic particles in engine oil.</line>
+<line><q>land as soon as possible</q></line>
+</question>
+
+<question><title>TRANS CHIP</title>
+<line>Metallic particles in transmission oil.</line>
+<line><q>land as soon as possible</q></line>
+</question>
+
+<question><title>T/R CHIP</title>
+<line>Metallic particles in tail rotor gearbox oil.</line>
+<line><q>land as soon as possible</q></line>
+</question>
+
+<question><title>A/F FUEL FILTER</title>
+<line>Airframe fuel filter impending bypass.</line>
+<line><q>land as soon as practicable</q></line>
+</question>
+
+<question><title>FUEL LOW</title>
+<line>Plan landing. Approximately <q>12</q> gallons of fuel remain.</line>
+</question>
+
+</quizdata>
